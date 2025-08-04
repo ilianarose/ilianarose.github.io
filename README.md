@@ -1,6 +1,6 @@
 <!-- Designing home page -->
 <body style="background-color:lavender;">
-  <h1 style="color:lightsteelblue; font-family: Georgia, serif;text-align:center;"> Elizabeth Chevres Massage </h1>
+  <h1 style="color:steelblue; font-family: Georgia, serif;text-align:center;"> Elizabeth Chevres Massage </h1>
 <!-- adding stone image-->
   <img width="500" height="350" alt="stones" class="center" style="  img {
   display: block;
