@@ -2,7 +2,9 @@
 <body style="background-color:lavender;">
   <h1 style="color:steelblue; font-family: Georgia, serif;text-align:center;"> Elizabeth Chevres Massage </h1>
 <!-- adding stone image-->
-  <img width="500" height="350" alt="stones" align="center" src="https://github.com/user-attachments/assets/3040015e-77ea-4926-9e63-d359e0bfd157"/>
+  <p align="center">
+  <img width="500" height="350" alt="stones" src="https://github.com/user-attachments/assets/3040015e-77ea-4926-9e63-d359e0bfd157"/>
+  </p>
   <!--home page info-->
 <h2 style="font-family: Georgia, serif;text-align:center;"> Welcome to my website! I am a massage therapist located in Central North Carolina. Call to book an appointment. 
 </h2>
