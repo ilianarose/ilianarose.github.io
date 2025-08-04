@@ -1,4 +1,5 @@
-<body>
+
+<body style="background-color:lavender;">
   <h1 style="color:powderblue; font-family: Georgia, serif;text-align:center;"> Elizabeth Chevres Massage </h1>
   <h2 style="font-family: Georgia, serif;text-align:center;"> Welcome to my website! I am a massage therapist located in Central North Carolina. Call to book an appointment. </h2>
   <p style="font-family: Georgia, serif;text-align:center;"> ALL are welcome.
